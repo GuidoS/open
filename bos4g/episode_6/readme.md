@@ -35,7 +35,7 @@ BOS4G is a show about Boston, Open Source, and Geospatial Technology. Guido Stei
 - getting area from the command line
 
   - ogrinfo
-  - ?
+  - [Sara's awesome tutorial](http://www.sarasafavi.com/intro-to-ogr-part-i-exploring-data.html)
 
 ## Upcoming Events
 
