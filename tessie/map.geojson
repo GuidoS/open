@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "name": "New England Aquarium",
+            "description": "FOSS4G Boston 2017 Gala Location",
+            "date": 20160815
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.0491794347763,
+                42.359209865857785
+            ]
+        }
+    }]
+}
