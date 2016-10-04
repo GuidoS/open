@@ -6,7 +6,8 @@
       "properties": {
         "name": "New England Aquarium",
         "description": "FOSS4G Boston 2017 Gala Location",
-        "date": 20160815
+        "arrival": 20160815,
+        "host":"@guidos"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "properties": {
         "name": "World Conference Center Bonn",
         "description": "GOSS4G Bonn 2016",
-        "date": 20160824
+        "arrival": 20160824,
+        "host":"@guidos"
       },
       "geometry": {
         "type": "Point",
